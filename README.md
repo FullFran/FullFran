@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - I'm currently studying for a Master's degree in Physics.
-- I'm interested in artificial intelligence and the simulation of physical models.
+- I'm interested in artificial intelligence, automatizations and the simulation of physical models.
 - I'm looking to improve my programming skills.
