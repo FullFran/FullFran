@@ -1,36 +1,40 @@
-name: Update README with current date and time
+name: Update README with Current Date and Time
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Esto se ejecuta cada hora
-  workflow_dispatch:  # Permite ejecutar manualmente el workflow
+    - cron: "0 * * * *"  # Se ejecuta cada hora en el minuto 0
+  workflow_dispatch:    # Permite ejecutar el workflow manualmente
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-    - name: Update README with date
+    - name: Configure Git
       run: |
-        echo "Updating the README with the current date and time"
+        git config --global user.name "FullFran"
+        git config --global user.email "tu-email@example.com"
+
+    - name: Update README with current date and time
+      run: |
         current_date=$(date +"%Y-%m-%d %H:%M %Z")
-        echo "### Hi there 👋" > README.md
-        echo "" >> README.md
-        echo "I'm currently studying for a Master's degree in Physics." >> README.md
-        echo "I'm interested in artificial intelligence, automatizations and the simulation of physical models." >> README.md
-        echo "I'm looking to improve my programming skills." >> README.md
-        echo "" >> README.md
-        echo "### 🕒 Current Date and Time:" >> README.md
-        echo "\`\`\`" >> README.md
-        echo "$current_date" >> README.md
-        echo "\`\`\`" >> README.md
+        # Usa sed para reemplazar el contenido entre los marcadores
+        sed -i '/<!-- START_DATE -->/,/<!-- END_DATE -->/c<!-- START_DATE -->\n`'"$current_date"'`\n<!-- END_DATE -->' README.md
 
     - name: Commit changes
       run: |
-        git config --global user.name "FullFran"
-        git config --global user.email "franfi17sw@gmail.com"
         git add README.md
-        git commit -m "Updated README with current date and time"
-        git push
+        # Solo realiza commit si hay cambios
+        if ! git diff --cached --quiet; then
+          git commit -m "🕒 Updated README with current date and time"
+        else
+          echo "No changes to commit"
+        fi
+
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
