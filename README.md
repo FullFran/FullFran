@@ -27,9 +27,25 @@
   <img src="https://img.shields.io/github/followers/FullFran?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
+<h2 align="center">Personal Interests</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>⌨️ Custom Keyboards Enthusiast</h3>
+      <p>I enjoy building and customizing mechanical keyboards. Currently, I’m using a Lily58</a> with <a href="https://github.com/FullFran/zmk-lily58">my custom keymap</a>.</p>
+    </td>
+    <td align="center">
+      <h3>🏃 Typing Speed (WPM)</h3>
+      <p>My average WPM from the last 10 tests on <a href="https://monkeytype.com">Monkeytype</a> is:</p>
+      <p><strong>XX WPM</strong></p> <!-- Aquí sustituirías "XX" por el valor dinámico obtenido de la API -->
+    </td>
+  </tr>
+</table>
+
 
 
 ### 🕒 Current Date and Time:
 <!-- START_DATE -->
-`2024-08-31 19h CEST`
+`No date set`
 <!-- END_DATE -->
