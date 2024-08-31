@@ -35,6 +35,17 @@ jobs:
         fi
 
     - name: Push changes
-      uses: ad-m/github-push-action@v0.6.0
+      uses: actions/github-script@v6
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          const github = require('@actions/github');
+          const context = github.context;
+
+          github.rest.repos.createOrUpdateFileContents({
+            ...context.repo,
+            path: 'README.md',
+            message: '🕒 Updated README with current date and time',
+            content: Buffer.from(require('fs').readFileSync('README.md')).toString('base64'),
+            sha: context.sha,
+            branch: context.ref.replace('refs/heads/', '')
+          });
