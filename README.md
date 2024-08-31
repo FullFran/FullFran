@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm FullFran</h1>
-<h3 align="center">A passionate student pursuing a Master's degree in Physics</h3>
+<h3 align="center">Phisics and AI entusiast</h3>
 
 <p align="center">
   <a href="https://github.com/FullFran?tab=repositories">
