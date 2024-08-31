@@ -5,9 +5,6 @@
   <a href="https://github.com/FullFran?tab=repositories">
     <img src="https://img.shields.io/github/followers/FullFran?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/FullFran">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=FullFran" alt="Profile Views" />
-  </a>
 </p>
 
 - 🌱 I’m currently studying for a Master's degree in Physics.
