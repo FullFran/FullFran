@@ -40,34 +40,3 @@ jobs:
           echo "No changes to commit"
         fi
 
-
-name: Update WPM from Monkeytype
-
-on:
-  schedule:
-    - cron: "0 * * * *"  # Actualiza cada hora
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Fetch WPM data from Monkeytype
-      run: |
-        # Obtener WPM promedio usando la API Key desde los secretos
-        average_wpm=$(curl -s "https://api.monkeytype.com/v2/profile/your-username/stats/recent?apikey=${{ secrets.MONKEYTYPE_API_KEY }}" -H "accept: application/json" | jq '[.data[].wpm] | add / length')
-        # Reemplazar el marcador en README.md con el WPM actual
-        sed -i 's/XX WPM/'"$average_wpm"' WPM/' README.md
-
-    - name: Commit and push changes
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@users.noreply.github.com"
-        git add README.md
-        git commit -m "Updated WPM from Monkeytype"
-        git push origin main
-
