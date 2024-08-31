@@ -19,21 +19,11 @@
   <li>Deeply interested in the potential of artificial intelligence and machine learning to revolutionize industries, particularly through automation and predictive modeling.</li>
 </ul>
 
-<h3>⚛️ Physics Applications</h3>
-<ul>
-  <li>Leveraging my physics knowledge to develop simulations and models enhanced by AI, providing deeper insights and more efficient solutions.</li>
-</ul>
-
-<h3>💻 Tech Skills</h3>
-<ul>
-  <li>Proficient in Python, data analysis, and developing AI-based applications that bridge the gap between theoretical physics and practical implementations.</li>
-</ul>
-
 <hr>
 
 <h3>🚀 Key Skills</h3>
 <ul>
   <li><b>AI-Powered Automation:</b> Creating automated systems that utilize artificial intelligence to optimize and streamline processes.</li>
-  <li><b>Machine Learning:</b> Developing and applying machine learning algorithms to improve decision-making and predict outcomes in complex systems.</li>
-  <li><b>Physics Modeling:</b> Applying advanced physics principles to simulate and solve real-world problems, enhanced by data-driven AI techniques.</li>
+ <li><b>Machine Learning:</b> Developing and applying machine learning algorithms to improve decision-making and predict outcomes in complex systems.</li>
+  <li><b>Physics Modeling:</b> Applying advanced physics principles to simulate and solve real-world problems.</li>
 </ul>
