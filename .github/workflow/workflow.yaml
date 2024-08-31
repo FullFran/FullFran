@@ -1,4 +1,3 @@
-
 name: Update README with current date and time
 
 on:
@@ -31,7 +30,7 @@ jobs:
     - name: Commit changes
       run: |
         git config --global user.name "FullFran"
-        git config --global user.email "your-email@example.com"
+        git config --global user.email "franfi17sw@gmail.com"
         git add README.md
         git commit -m "Updated README with current date and time"
         git push
