@@ -38,7 +38,7 @@
     <td align="center">
       <h3>🏃 Typing Speed (WPM)</h3>
       <p>My average WPM from the last 10 tests on <a href="https://monkeytype.com">Monkeytype</a> is:</p>
-      <p><strong>XX WPM</strong></p> <!-- Aquí sustituirías "XX" por el valor dinámico obtenido de la API -->
+      <p><strong>97 WPM</strong></p> <!-- Aquí sustituirías "XX" por el valor dinámico obtenido de la API -->
     </td>
   </tr>
 </table>
