@@ -1,6 +1,6 @@
 <h2 align="center">About Me</h2>
 <p align="center"><strong>Physicist Specializing in AI-Powered Automation and Machine Learning Solutions</strong></p>
-<p align="center">I am a passionate physicist with a strong focus on integrating <strong>artificial intelligence</strong> and <strong>machine learning</strong> to create innovative automation solutions. My expertise lies in applying <strong>AI-driven methodologies</strong> to solve complex physical problems, optimizing processes through <strong>intelligent automation</strong>, and exploring the intersection of <strong>physics</strong> and <strong>data science</strong>.</p>
+<p align="center">I am a dynamic physicist with a strong foundation in <strong>artificial intelligence</strong> and <strong>machine learning</strong>, specializing in AI-powered automation and optimization. My expertise lies in applying <strong>AI-driven methodologies</strong> to solve complex physical problems, streamline processes through <strong>intelligent automation</strong>, and explore the intersection of <strong>physics</strong> and <strong>data science</strong>.</p>
 
 <h2 align="center">Expertise</h2>
 
@@ -8,17 +8,18 @@
   <tr>
     <td align="center">
       <h3>🌱 Educational Background</h3>
-      <p>Currently pursuing a Master’s degree in Physics.</p>
+      <p>Master’s degree in Physics with a thesis on light propagation in disordered media.</p>
+      <p>Currently pursuing a specialization in Artificial Intelligence, focusing on AI-driven business automation and data-centric solutions.</p>
     </td>
     <td align="center">
       <h3>🤖 AI and Machine Learning Enthusiast</h3>
-      <p>Deeply interested in the potential of artificial intelligence and machine learning to revolutionize industries, particularly through automation and predictive modeling.</p>
+      <p>Deeply interested in the potential of artificial intelligence and machine learning to revolutionize industries, particularly through automation, predictive modeling, and business-oriented AI solutions.</p>
     </td>
     <td align="center">
       <h3>🚀 Key Skills</h3>
-      <p><strong>AI-Powered Automation:</strong> Creating automated systems that utilize artificial intelligence to optimize and streamline processes.</p>
-      <p><strong>Machine Learning:</strong> Developing and applying machine learning algorithms to improve decision-making and predict outcomes in complex systems.</p>
-      <p><strong>Physics Modeling:</strong> Applying advanced physics principles to simulate and solve real-world problems.</p>
+      <p><strong>AI-Powered Automation:</strong> Designing and deploying AI-driven automation solutions to enhance business processes.</p>
+      <p><strong>Machine Learning & Data Science:</strong> Developing predictive models and optimizing decision-making using Python-based AI frameworks.</p>
+      <p><strong>Physics & Computational Modeling:</strong> Applying advanced physics and computational techniques to simulate and solve real-world problems.</p>
     </td>
   </tr>
 </table>
@@ -33,19 +34,17 @@
   <tr>
     <td align="center">
       <h3>⌨️ Custom Keyboards Enthusiast</h3>
-      <p>I enjoy building and customizing mechanical keyboards. Currently, I’m using a Lily58</a> with <a href="https://github.com/FullFran/zmk-lily58">my custom keymap</a>.</p>
+      <p>I enjoy building and customizing mechanical keyboards. Currently, I’m using a <a href="https://github.com/FullFran/zmk-lily58">Lily58</a> with my custom keymap and assembling a Fifi Keyboard.</p>
     </td>
     <td align="center">
       <h3>🏃 Typing Speed (WPM)</h3>
       <p>My average WPM from the last 10 tests on <a href="https://monkeytype.com">Monkeytype</a> is:</p>
-      <p><strong>97 WPM</strong></p> <!-- Aquí sustituirías "XX" por el valor dinámico obtenido de la API -->
+      <p><strong>97 WPM</strong></p>
     </td>
   </tr>
 </table>
 
-
-
 ### 🕒 Current Date and Time:
 <!-- START_DATE -->
-`2025-01-31 16h CET`
+`2025-01-30 15h CET`
 <!-- END_DATE -->
