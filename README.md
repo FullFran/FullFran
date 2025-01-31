@@ -8,7 +8,7 @@
   <tr>
     <td align="center">
       <h3>🌱 Educational Background</h3>
-      <p>Master’s degree in Physics with a thesis on light propagation in disordered media.</p>
+      <p>Master’s degree in Physics with a thesis on light propagation in disordered media. Simulated with ray-tracing</p>
       <p>Currently pursuing a specialization in Artificial Intelligence, focusing on AI-driven business automation and data-centric solutions.</p>
     </td>
     <td align="center">
