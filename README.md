@@ -57,20 +57,3 @@
 <!-- START_DATE -->
 `2025-03-20 13h CET`
 <!-- END_DATE -->
-
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  td {
-    padding: 10px;
-    border-bottom: 1px solid #ddd;
-  }
-  @media screen and (max-width: 600px) {
-    table {
-      display: block;
-      overflow-x: auto;
-    }
-  }
-</style>
