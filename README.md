@@ -1,25 +1,31 @@
 <h2 align="center">About Me</h2>
-<p align="center"><strong>Physicist Specializing in AI-Powered Automation and Machine Learning Solutions</strong></p>
-<p align="center">I am a dynamic physicist with a strong foundation in <strong>artificial intelligence</strong> and <strong>machine learning</strong>, specializing in AI-powered automation and optimization. My expertise lies in applying <strong>AI-driven methodologies</strong> to solve complex physical problems, streamline processes through <strong>intelligent automation</strong>, and explore the intersection of <strong>physics</strong> and <strong>data science</strong>.</p>
+<p align="center"><strong>Physicist | AI-Powered Automation Specialist | Data Science Enthusiast</strong></p>
+<p align="center">I am a passionate physicist with a strong foundation in <strong>artificial intelligence</strong> and <strong>machine learning</strong>. I specialize in AI-driven automation, computational modeling, and data-centric solutions. My expertise lies in applying <strong>AI methodologies</strong> to solve complex problems, optimize processes, and integrate automation into business applications.</p>
+
+<h2 align="center">🚀 Founder of <a href="https://github.com/blakiatech">Blakia Tech</a></h2>
+<p align="center">I run <strong>Blakia</strong>, a company dedicated to <strong>AI-powered business automation</strong>. We develop intelligent solutions to streamline workflows, enhance decision-making, and drive efficiency using cutting-edge AI technologies.</p>
 
 <h2 align="center">Expertise</h2>
 
 <table>
   <tr>
     <td align="center">
-      <h3>🌱 Educational Background</h3>
-      <p>Master’s degree in Physics with a thesis on light propagation in disordered media. Simulated with ray-tracing</p>
-      <p>Currently pursuing a specialization in Artificial Intelligence, focusing on AI-driven business automation and data-centric solutions.</p>
+      <h3>📚 Educational Background</h3>
+      <p>Master’s degree in Physics with a thesis on light propagation in disordered media. Simulated with ray-tracing.</p>
+      <p>Currently specializing in AI-driven business automation and data science.</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <h3>🤖 AI and Machine Learning Enthusiast</h3>
-      <p>Deeply interested in the potential of artificial intelligence and machine learning to revolutionize industries, particularly through automation, predictive modeling, and business-oriented AI solutions.</p>
+      <h3>🤖 AI and Data Science</h3>
+      <p>Passionate about using artificial intelligence and data science to solve real-world challenges.</p>
+      <p>Experience in predictive modeling, intelligent automation, and computational optimization.</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <h3>🚀 Key Skills</h3>
-      <p><strong>AI-Powered Automation:</strong> Designing and deploying AI-driven automation solutions to enhance business processes.</p>
-      <p><strong>Machine Learning & Data Science:</strong> Developing predictive models and optimizing decision-making using Python-based AI frameworks.</p>
-      <p><strong>Physics & Computational Modeling:</strong> Applying advanced physics and computational techniques to simulate and solve real-world problems.</p>
+      <h3>🔬 Physics & Computational Modeling</h3>
+      <p>Applying physics-based simulations and computational techniques to drive innovation.</p>
     </td>
   </tr>
 </table>
@@ -34,8 +40,11 @@
   <tr>
     <td align="center">
       <h3>⌨️ Custom Keyboards Enthusiast</h3>
-      <p>I enjoy building and customizing mechanical keyboards. Currently, I’m using a <a href="https://github.com/FullFran/zmk-lily58">Lily58</a> with my custom keymap and assembling a Fifi Keyboard.</p>
+      <p>I enjoy building and customizing mechanical keyboards. Currently, I’m using a <a href="https://github.com/FullFran/zmk-fifi">Fifi Keyboard</a> with my custom keymap.</p>
+      <p>I love ultra-compact <strong>34-key keyboards</strong> and minimalist layouts.</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <h3>🏃 Typing Speed (WPM)</h3>
       <p>My average WPM from the last 10 tests on <a href="https://monkeytype.com">Monkeytype</a> is:</p>
@@ -48,3 +57,20 @@
 <!-- START_DATE -->
 `2025-03-20 13h CET`
 <!-- END_DATE -->
+
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  @media screen and (max-width: 600px) {
+    table {
+      display: block;
+      overflow-x: auto;
+    }
+  }
+</style>
