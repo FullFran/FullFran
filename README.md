@@ -12,7 +12,7 @@
     <td align="center">
       <h3>📚 Educational Background</h3>
       <p>Master’s degree in Physics with a thesis on light propagation in disordered media. Simulated with ray-tracing.</p>
-      <p>Currently specializing in AI-driven business automation and data science.</p>
+      <p>Currently specialized in AI-driven business automation and data science.</p>
     </td>
   </tr>
   <tr>
