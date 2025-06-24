@@ -1,63 +1,60 @@
-<h2 align="center">About Me</h2>
-<p align="center"><strong>Physicist | AI-Powered Automation Specialist | Data Science Enthusiast</strong></p>
-<p align="center">I am a passionate physicist with a strong foundation in <strong>artificial intelligence</strong> and <strong>machine learning</strong>. I specialize in AI-driven automation, computational modeling, and data-centric solutions. My expertise lies in applying <strong>AI methodologies</strong> to solve complex problems, optimize processes, and integrate automation into business applications.</p>
+<h1 align="center">Francisco Manuel Olmedo Cortés</h1>
+<p align="center"><strong>Physicist · AI-Powered Automation Architect · Data-Driven Solutions Engineer</strong></p>
 
-<h2 align="center">🚀 Founder of <a href="https://github.com/blakiatech">Blakia Tech</a></h2>
-<p align="center">I run <strong>Blakia</strong>, a company dedicated to <strong>AI-powered business automation</strong>. We develop intelligent solutions to streamline workflows, enhance decision-making, and drive efficiency using cutting-edge AI technologies.</p>
+---
 
-<h2 align="center">Expertise</h2>
+## 🧠 About Me
 
-<table>
-  <tr>
-    <td align="center">
-      <h3>📚 Educational Background</h3>
-      <p>Master’s degree in Physics with a thesis on light propagation in disordered media. Simulated with ray-tracing.</p>
-      <p>Currently specialized in AI-driven business automation and data science.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🤖 AI and Data Science</h3>
-      <p>Passionate about using artificial intelligence and data science to solve real-world challenges.</p>
-      <p>Experience in predictive modeling, intelligent automation, and computational optimization.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🔬 Physics & Computational Modeling</h3>
-      <p>Applying physics-based simulations and computational techniques to drive innovation.</p>
-    </td>
-  </tr>
-</table>
+I am a physicist specialized in **AI-powered automation**, **computational modeling**, and **data-centric architectures**. I design and implement intelligent systems that solve complex problems and integrate seamlessly into real-world businesses.
 
-<p>
-  You can read my <a href="https://fullfran.github.io/cv/">cv</a>
-</p>
+As the founder of [**Blakia Tech**](https://github.com/blakiatech), I lead the development of custom AI solutions that enhance decision-making, streamline operations, and scale with demand.
+
+---
+
+## 🧰 Expertise
+
+- **Educational Background**  
+  MSc in Physics with a thesis on light propagation in disordered media (ray tracing). Specialized in business automation and data science.
+
+- **AI and Data Science**  
+  Experience in predictive modeling, intelligent workflow automation, and operational optimization using LLMs and cloud tools.
+
+- **Physics & Modeling**  
+  Application of simulation and optimization techniques from physics to engineering and business systems.
+
+---
+
+## 📄 Curriculum Vitae
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/FullFran?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://fullfran.github.io/cv/" target="_blank">
+    <img alt="View CV" src="https://img.shields.io/badge/View%20Online%20CV-blue?logo=read-the-docs&style=for-the-badge" />
+  </a>
 </p>
 
-<h2 align="center">Personal Interests</h2>
+---
 
-<table>
-  <tr>
-    <td align="center">
-      <h3>⌨️ Custom Keyboards Enthusiast</h3>
-      <p>I enjoy building and customizing mechanical keyboards. Currently, I’m using a <a href="https://github.com/FullFran/zmk-fifi">Fifi Keyboard</a> with my custom keymap.</p>
-      <p>I love ultra-compact <strong>34-key keyboards</strong> and minimalist layouts.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🏃 Typing Speed (WPM)</h3>
-      <p>My average WPM from the last 10 tests on <a href="https://monkeytype.com">Monkeytype</a> is:</p>
-      <p><strong>97 WPM</strong></p>
-    </td>
-  </tr>
-</table>
+## 💡 Personal Interests
 
-### 🕒 Current Date and Time:
-<!-- START_DATE -->
-`2025-06-25 01h CEST`
-<!-- END_DATE -->
+- **⌨️ Custom Mechanical Keyboards**  
+  I build and use ultra-compact keyboards (e.g., [Fifi Keyboard](https://github.com/FullFran/zmk-fifi)) with 34-key minimalist layouts.
+
+- **🏃 Typing Speed**  
+  Average: **97 WPM** on [Monkeytype](https://monkeytype.com)
+
+---
+
+## 📬 Connect
+
+- 🌐 Website: [blakia.es](https://blakia.es)
+- 🧠 Portfolio CV: [fullfran.github.io/cv](https://fullfran.github.io/cv)
+- 💻 GitHub: [FullFran](https://github.com/FullFran)
+- ✉️ Email: [fran@blakia.es](mailto:fran@blakia.es)
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/FullFran?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
+</p>
+
+---
+
+<sub>Last updated: `2025-06-25 01h CEST`</sub>
