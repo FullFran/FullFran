@@ -37,7 +37,7 @@ As the founder of [**Blakia**](https://github.com/blakiatech), I lead the develo
 ## 💡 Personal Interests
 
 - **⌨️ Custom Mechanical Keyboards**  
-  I build and use ultra-compact keyboards (e.g., [Fifi Keyboard](https://github.com/FullFran/zmk-fifi)) with 34-key minimalist layouts.
+  I build and use ultra-compact keyboards (e.g., [Fifi Keyboard](https://github.com/raychengy/fifi_split_keeb)) with 34-key minimalist layouts.
 
 - **🏃 Typing Speed**  
   Average: **97 WPM** on [Monkeytype](https://monkeytype.com)
