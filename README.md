@@ -30,6 +30,10 @@
   </tr>
 </table>
 
+<p>
+  You can read my <a href="https://fullfran.github.io/cv/">cv</a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/FullFran?label=Followers&style=social" alt="GitHub Followers" />
 </p>
