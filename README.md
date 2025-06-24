@@ -7,7 +7,7 @@
 
 I am a physicist specialized in **AI-powered automation**, **computational modeling**, and **data-centric architectures**. I design and implement intelligent systems that solve complex problems and integrate seamlessly into real-world businesses.
 
-As the founder of [**Blakia Tech**](https://github.com/blakiatech), I lead the development of custom AI solutions that enhance decision-making, streamline operations, and scale with demand.
+As the founder of [**Blakia**](https://github.com/blakiatech), I lead the development of custom AI solutions that enhance decision-making, streamline operations, and scale with demand.
 
 ---
 
