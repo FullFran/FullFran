@@ -17,10 +17,12 @@ and real users.
 — PhD candidate in applied AI @ Universidad de Córdoba · CIEMAT<br>
 — Before: founded BlakIA — chatbots handling 100k+ weekly interactions
 
-**Also**<br>
-I'm way too into mechanical keyboards. I type on a 34-key split at ~97 wpm —
-Vial/QMK, home-row mods, the works.<br>
-→ [fullfran.com/fifi-keyboard-vial](https://www.fullfran.com/fifi-keyboard-vial/)
+**What I run**<br>
+Linux (Pop!_OS), tiling, and a terminal I'm probably tweaking right now:
+Ghostty · tmux · Neovim (LazyVim) · zsh — all reproducible with Nix +
+home-manager, kept public so my team boots the same setup in ~5 min.<br>
+And yes, I type this on a [34-key split](https://www.fullfran.com/fifi-keyboard-vial/) at ~97 wpm.<br>
+→ [fulfran-dots](https://github.com/FullFran/fulfran-dots)
 
 **What I care about**<br>
 Architecture that survives contact with reality. Systems you can still reason
@@ -45,10 +47,12 @@ datos reales y usuarios reales.
 — Doctorando en IA aplicada @ Universidad de Córdoba · CIEMAT<br>
 — Antes: fundé BlakIA — chatbots con 100k+ interacciones semanales
 
-**También**<br>
-Me encantan los teclados mecánicos. Escribo en un split de 34 teclas a ~97 ppm
-— Vial/QMK, home-row mods, y todo lo demás.<br>
-→ [fullfran.com/fifi-keyboard-vial](https://www.fullfran.com/fifi-keyboard-vial/)
+**Lo que uso**<br>
+Linux (Pop!_OS), tiling, y una terminal que seguramente estoy toqueteando ahora
+mismo: Ghostty · tmux · Neovim (LazyVim) · zsh — todo reproducible con Nix +
+home-manager, público para que mi equipo levante el mismo entorno en ~5 min.<br>
+Y sí, escribo esto en un [split de 34 teclas](https://www.fullfran.com/fifi-keyboard-vial/) a ~97 ppm.<br>
+→ [fulfran-dots](https://github.com/FullFran/fulfran-dots)
 
 **Lo que me importa**<br>
 Arquitectura que sobrevive al contacto con la realidad. Sistemas que todavía
