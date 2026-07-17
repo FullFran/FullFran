@@ -15,7 +15,7 @@ and real users.
 **Currently**<br>
 — Chief Data Scientist @ Hagalink — end-to-end AI systems<br>
 — PhD candidate in applied AI @ Universidad de Córdoba · CIEMAT<br>
-— Before: co-founded BlakIA — chatbots handling 100k+ weekly interactions
+— Before: founded BlakIA — chatbots handling 100k+ weekly interactions
 
 **Also**<br>
 I'm way too into mechanical keyboards. I type on a 34-key split at ~97 wpm —
@@ -43,7 +43,7 @@ datos reales y usuarios reales.
 **Ahora mismo**<br>
 — Chief Data Scientist @ Hagalink — sistemas de IA de punta a punta<br>
 — Doctorando en IA aplicada @ Universidad de Córdoba · CIEMAT<br>
-— Antes: cofundé BlakIA — chatbots con 100k+ interacciones semanales
+— Antes: fundé BlakIA — chatbots con 100k+ interacciones semanales
 
 **También**<br>
 Me encantan los teclados mecánicos. Escribo en un split de 34 teclas a ~97 ppm
