@@ -1,33 +1,60 @@
-<h1 align="center">Francisco Manuel Olmedo Cortés</h1>
-<p align="center"><strong>Physicist · AI Systems Engineer · Backend</strong></p>
+<div align="center">
 
-<p align="center">
-I turn language models, retrieval and agents into systems that hold up in production.
-</p>
+![Francisco Olmedo — Physicist. I build AI systems that ship.](assets/terminal.svg)
 
----
+</div>
 
-## Currently
+### Francisco Olmedo
 
-- **Hagalink** — Chief Data Scientist & Lead AI Engineer *(2026 — present)*
-- **Universidad de Córdoba / CIEMAT** — Ph.D. Candidate in Physics / Applied AI *(2026 — present)*
+**Physicist. I build AI systems that ship.**
 
-## Selected projects
+Physics taught me to distrust things that only work on the slides. So now I
+design and run production AI — the kind that survives real traffic, real data,
+and real users.
 
-- [**feedpulse**](https://github.com/FullFran/feedpulse) — production-grade RSS monitoring platform.
-- [**Hybrid-RAG-example**](https://github.com/FullFran/Hybrid-RAG-example) — hybrid retrieval done properly.
-- [**claudeops-tui**](https://github.com/FullFran/claudeops-tui) — local TUI to track Claude Code usage.
-- [**fifi-keyboard-vial**](https://github.com/FullFran/fifi-keyboard-vial) — my 34-key split keyboard.
+**Currently**<br>
+— Chief Data Scientist @ Hagalink — end-to-end AI systems<br>
+— PhD candidate in applied AI @ Universidad de Córdoba · CIEMAT<br>
+— Before: co-founded BlakIA — chatbots handling 100k+ weekly interactions
 
-## Also
+**Also**<br>
+I'm way too into mechanical keyboards. I type on a 34-key split at ~97 wpm —
+Vial/QMK, home-row mods, the works.<br>
+→ [fullfran.com/fifi-keyboard-vial](https://www.fullfran.com/fifi-keyboard-vial/)
 
-I like mechanical keyboards. I type on a 34-key split at around **97 WPM** on [Monkeytype](https://monkeytype.com).
+**What I care about**<br>
+Architecture that survives contact with reality. Systems you can still reason
+about at 3am. Less magic, more engineering.
 
-## Elsewhere
+**Elsewhere**<br>
+CV → [fullfran.com/cv](https://www.fullfran.com/cv/) · [email](mailto:franciscomanuelolmedocortes@gmail.com)
 
-- **CV:** [fullfran.com/cv](https://www.fullfran.com/cv/)
-- **Email:** [franciscomanuelolmedocortes@gmail.com](mailto:franciscomanuelolmedocortes@gmail.com)
+<details>
+<summary><b>🇪🇸 En español</b></summary>
 
----
+<br>
 
-<sub>Last updated: 2026-04-19</sub>
+**Físico. Construyo sistemas de IA que llegan a producción.**
+
+La física me enseñó a desconfiar de lo que solo funciona en las diapositivas.
+Así que ahora diseño y opero IA en producción — la que aguanta tráfico real,
+datos reales y usuarios reales.
+
+**Ahora mismo**<br>
+— Chief Data Scientist @ Hagalink — sistemas de IA de punta a punta<br>
+— Doctorando en IA aplicada @ Universidad de Córdoba · CIEMAT<br>
+— Antes: cofundé BlakIA — chatbots con 100k+ interacciones semanales
+
+**También**<br>
+Me encantan los teclados mecánicos. Escribo en un split de 34 teclas a ~97 ppm
+— Vial/QMK, home-row mods, y todo lo demás.<br>
+→ [fullfran.com/fifi-keyboard-vial](https://www.fullfran.com/fifi-keyboard-vial/)
+
+**Lo que me importa**<br>
+Arquitectura que sobrevive al contacto con la realidad. Sistemas que todavía
+puedes razonar a las 3am. Menos magia, más ingeniería.
+
+**En otros sitios**<br>
+CV → [fullfran.com/cv](https://www.fullfran.com/cv/) · [email](mailto:franciscomanuelolmedocortes@gmail.com)
+
+</details>
