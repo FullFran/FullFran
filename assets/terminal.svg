@@ -1,54 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 500" width="840" height="500" role="img" aria-label="Terminal: Francisco Olmedo — Physicist. I build AI systems that ship.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 460" width="840" height="460" role="img" aria-label="Terminal: Francisco Olmedo — Physicist. I build AI systems that ship.">
   <defs>
-    <clipPath id="win"><rect x="8" y="8" width="824" height="484" rx="14"/></clipPath>
+    <clipPath id="win"><rect x="8" y="8" width="824" height="444" rx="10"/></clipPath>
     <style>
       text{font-family:'JetBrains Mono','SFMono-Regular',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace}
       .body{font-size:15.5px}
       .bar{font-size:13px}
-      .title{font-size:13px;fill:#565f89}
       .b{fill:#7aa2f7}.m{fill:#bb9af7}.g{fill:#9ece6a}.c{fill:#565f89}
       .f{fill:#c0caf5}.cy{fill:#7dcfff}.y{fill:#e0af68}.t{fill:#73daca}
     </style>
   </defs>
 
-  <!-- window -->
-  <rect x="8" y="8" width="824" height="484" rx="14" fill="#1a1b26" stroke="#292e42" stroke-width="1.5"/>
+  <!-- window (no title bar — tiling WM style) -->
+  <rect x="8" y="8" width="824" height="444" rx="10" fill="#1a1b26" stroke="#292e42" stroke-width="1.5"/>
 
-  <!-- clipped chrome (title + status bars) -->
+  <!-- status bar background (clipped to rounded corners) -->
   <g clip-path="url(#win)">
-    <rect x="8" y="8" width="824" height="40" fill="#16161e"/>
-    <rect x="8" y="452" width="824" height="40" fill="#1f2335"/>
-    <rect x="20" y="460" width="72" height="24" rx="5" fill="#9ece6a"/>
+    <rect x="8" y="412" width="824" height="40" fill="#1f2335"/>
+    <rect x="20" y="420" width="72" height="24" rx="5" fill="#9ece6a"/>
   </g>
 
-  <!-- traffic lights + title -->
-  <circle cx="34" cy="28" r="6.5" fill="#f7768e"/>
-  <circle cx="58" cy="28" r="6.5" fill="#e0af68"/>
-  <circle cx="82" cy="28" r="6.5" fill="#9ece6a"/>
-  <text class="title" x="420" y="33" text-anchor="middle">francisco@fullfran: ~/branding</text>
-
   <!-- body -->
-  <text class="body" x="28" y="92"><tspan class="b">~/branding</tspan><tspan class="m"> ❯ </tspan><tspan class="f">whoami</tspan></text>
-  <text class="body" x="28" y="122"><tspan class="g">Francisco Olmedo</tspan><tspan class="c">  —  Physicist × Applied-AI researcher × builder</tspan></text>
+  <text class="body" x="28" y="56"><tspan class="b">~/branding</tspan><tspan class="m"> ❯ </tspan><tspan class="f">whoami</tspan></text>
+  <text class="body" x="28" y="86"><tspan class="g">Francisco Olmedo</tspan><tspan class="c">  —  Physicist × Applied-AI researcher × builder</tspan></text>
 
-  <text class="body" x="28" y="152"><tspan class="b">~/branding</tspan><tspan class="m"> ❯ </tspan><tspan class="f">cat manifesto.txt</tspan></text>
-  <text class="body" x="28" y="182"><tspan class="cy">"</tspan><tspan class="f">Physics taught me to distrust things that only work on the slides.</tspan></text>
-  <text class="body f" x="28" y="212">I design and run production AI that survives real traffic, real</text>
-  <text class="body" x="28" y="242"><tspan class="f">data and real users.</tspan><tspan class="cy">"</tspan></text>
+  <text class="body" x="28" y="116"><tspan class="b">~/branding</tspan><tspan class="m"> ❯ </tspan><tspan class="f">cat manifesto.txt</tspan></text>
+  <text class="body" x="28" y="146"><tspan class="cy">"</tspan><tspan class="f">Physics taught me to distrust things that only work on the slides.</tspan></text>
+  <text class="body f" x="28" y="176">I design and run production AI that survives real traffic, real</text>
+  <text class="body" x="28" y="206"><tspan class="f">data and real users.</tspan><tspan class="cy">"</tspan></text>
 
-  <text class="body" x="28" y="272"><tspan class="b">~/branding</tspan><tspan class="m"> ❯ </tspan><tspan class="f">ls now/</tspan></text>
-  <text class="body" x="28" y="302"><tspan class="b">hagalink/</tspan><tspan class="f">   </tspan><tspan class="b">phd-applied-ai/</tspan><tspan class="f">   </tspan><tspan class="c">ex-blakia/</tspan></text>
+  <text class="body" x="28" y="236"><tspan class="b">~/branding</tspan><tspan class="m"> ❯ </tspan><tspan class="f">ls now/</tspan></text>
+  <text class="body" x="28" y="266"><tspan class="b">hagalink/</tspan><tspan class="f">   </tspan><tspan class="b">phd-applied-ai/</tspan><tspan class="f">   </tspan><tspan class="c">ex-blakia/</tspan></text>
 
-  <text class="body" x="28" y="332"><tspan class="b">~/branding</tspan><tspan class="m"> ❯ </tspan><tspan class="f">echo $EXTRAS</tspan></text>
-  <text class="body" x="28" y="362"><tspan class="y">mechanical-keyboards</tspan><tspan class="c">  ·  </tspan><tspan class="f">34-key split</tspan><tspan class="c">  ·  </tspan><tspan class="t">~97 wpm</tspan></text>
+  <text class="body" x="28" y="296"><tspan class="b">~/branding</tspan><tspan class="m"> ❯ </tspan><tspan class="f">echo $EXTRAS</tspan></text>
+  <text class="body" x="28" y="326"><tspan class="y">mechanical-keyboards</tspan><tspan class="c">  ·  </tspan><tspan class="f">34-key split</tspan><tspan class="c">  ·  </tspan><tspan class="t">~97 wpm</tspan></text>
 
-  <text class="body" x="28" y="392"><tspan class="b">~/branding</tspan><tspan class="m"> ❯ </tspan></text>
-  <rect x="150" y="379" width="10" height="17" fill="#c0caf5">
+  <text class="body" x="28" y="356"><tspan class="b">~/branding</tspan><tspan class="m"> ❯ </tspan></text>
+  <rect x="150" y="343" width="10" height="17" fill="#c0caf5">
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.06s" repeatCount="indefinite"/>
   </rect>
 
   <!-- status bar -->
-  <text class="bar" x="56" y="477" text-anchor="middle" font-weight="bold" fill="#16161e">main</text>
-  <text class="bar c" x="104" y="477">~/branding</text>
-  <text class="bar" x="816" y="477" text-anchor="end"><tspan class="g">CPU 4%</tspan><tspan class="c">   </tspan><tspan class="y">RAM 41%</tspan><tspan class="c">   </tspan><tspan class="m">GPU 5%</tspan><tspan class="c">    </tspan><tspan class="b">00:58</tspan><tspan class="c">   </tspan><tspan class="f">18/07</tspan></text>
+  <text class="bar" x="56" y="437" text-anchor="middle" font-weight="bold" fill="#16161e">main</text>
+  <text class="bar c" x="104" y="437">~/branding</text>
+  <text class="bar" x="816" y="437" text-anchor="end"><tspan class="g">CPU 4%</tspan><tspan class="c">   </tspan><tspan class="y">RAM 41%</tspan><tspan class="c">   </tspan><tspan class="m">GPU 5%</tspan><tspan class="c">    </tspan><tspan class="b">00:58</tspan><tspan class="c">   </tspan><tspan class="f">18/07</tspan></text>
 </svg>
